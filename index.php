@@ -5,6 +5,6 @@
     // $produto = new \app\models\Produto;
     // echo $produto->create();
 
-    $produto = new asw\services\Search;
+    $produto = new asw\services\Search;   
     echo $produto->pesquisar();
 ?>
