@@ -1,6 +1,6 @@
 <?php
 
-namespace asw\services;
+namespace asw;
 
 class Search {
     public function pesquisar() {
